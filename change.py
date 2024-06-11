@@ -4,4 +4,6 @@ g = "Check in the Source control in vscode"
 i = "creating new commit in new repository"
 j = "Pushing the new changes to github"
 m = "created new git clone"
-print (b, c, f, i, j)
+n = "this is a new clone for contributing for a project"
+
+print (b, c, i, j, n)
